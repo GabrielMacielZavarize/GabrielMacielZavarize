@@ -2,7 +2,7 @@
 ### Olá!! Eu sou Gabriel Maciel 🙂
 ***
 ### Sobre Mim:
- - 18 Anos;
+ - 19 Anos;
  - Estágio de Desenvolvimento;
  - Curso Técnico de informática completo;
  - Graduação Engenharia de Software (1/4).
