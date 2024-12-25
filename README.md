@@ -5,7 +5,7 @@
  - 19 Anos;
  - Estágio de Desenvolvimento;
  - Curso Técnico de informática completo;
- - Graduação Engenharia de Software (1/4).
+ - Graduação Engenharia de Software (2/4).
  
 Quando for aprender uma linguagem aprenda ela por completo cada detalhe. Não seja um pato, que faz tudo, e nada sai bem feito.
 
