@@ -3,7 +3,7 @@
 ***
 ### Sobre Mim:
  - 19 Anos;
- - Estágio de Desenvolvimento;
+ - Desenvolvedor Júnior;
  - Curso Técnico de informática completo;
  - Graduação Engenharia de Software (2/4).
  
