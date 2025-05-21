@@ -3,7 +3,7 @@
 ***
 ### Sobre Mim:
 
-👋 Olá! Sou um desenvolvedor júnior de 19 anos, apaixonado por tecnologia e inovação.
+👋 Olá! Tenho 19 anos e trabalho como Desenvolvedor e Inovador, apaixonado por tecnologia e inovação.
 
 🎓 Atualmente, estou cursando a graduação em Engenharia de Software (2º ano de 4) e já completei um curso técnico em Informática.
 
