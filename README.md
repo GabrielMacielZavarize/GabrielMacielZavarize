@@ -1,17 +1,15 @@
-<div align="center">
-  <img src="https://img.shields.io/badge/idade-19%20anos-blue?style=for-the-badge&logo=calendar&logoColor=white"/>
-  <img src="https://img.shields.io/badge/foco-desenvolvimento-brightgreen?style=for-the-badge&logo=target&logoColor=white"/>
-  <img src="https://img.shields.io/badge/status-sempre%20aprendendo-yellow?style=for-the-badge&logo=bookstack&logoColor=white"/>
-</div>
-
----
-
 ## 🚀 Sobre mim
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding gif"/>
 
 Olá! Prazer, sou o Gabriel. Atualmente cursando **Engenharia de Software**.
 
+<div align="center">
+  <img src="https://img.shields.io/badge/idade-19%20anos-blue?style=for-the-badge&logo=calendar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/foco-desenvolvimento-brightgreen?style=for-the-badge&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/status-sempre%20aprendendo-yellow?style=for-the-badge&logo=bookstack&logoColor=white"/>
+</div>
+<br/>
 **O que me move?** Resolver problemas reais com tecnologia. Gosto de pegar uma ideia e transformar ela em algo que funciona de verdade.
 
 ### Minha jornada:
