@@ -1,9 +1,3 @@
-# Oi, eu sou o Gabriel! 👋
-
-<div align="center">
-  <img src="https://github.com/GabrielMacielZavarize.png" width="180px" style="border-radius: 50%; border: 3px solid #00D9FF; box-shadow: 0 0 20px rgba(0, 217, 255, 0.3);" alt="Gabriel Maciel"/>
-</div>
-
 <div align="center">
   <img src="https://img.shields.io/badge/idade-19%20anos-blue?style=for-the-badge&logo=calendar&logoColor=white"/>
   <img src="https://img.shields.io/badge/foco-desenvolvimento-brightgreen?style=for-the-badge&logo=target&logoColor=white"/>
