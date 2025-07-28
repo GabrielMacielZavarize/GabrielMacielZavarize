@@ -10,7 +10,7 @@ Olá! Prazer, sou o Gabriel. Atualmente cursando **Engenharia de Software**.
   <img src="https://img.shields.io/badge/status-sempre%20aprendendo-yellow?style=for-the-badge&logo=bookstack&logoColor=white"/>
 </div>
 <br/>
-**O que me move?** Resolver problemas reais com tecnologia. Gosto de pegar uma ideia e transformar ela em algo que funciona de verdade.
+O que me move? Resolver problemas reais com tecnologia. Gosto de pegar uma ideia e transformar ela em algo que funciona de verdade.
 
 ### Minha jornada:
 - 🎓 **Estudante** de Engenharia de Software (2º ano)
