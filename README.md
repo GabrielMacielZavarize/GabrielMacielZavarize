@@ -5,7 +5,7 @@
 Olá! Prazer, sou o Gabriel. Atualmente cursando **Engenharia de Software**.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/idade-19%20anos-blue?style=for-the-badge&logo=calendar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/idade-20%20anos-blue?style=for-the-badge&logo=calendar&logoColor=white"/>
   <img src="https://img.shields.io/badge/foco-desenvolvimento-brightgreen?style=for-the-badge&logo=target&logoColor=white"/>
   <img src="https://img.shields.io/badge/status-sempre%20aprendendo-yellow?style=for-the-badge&logo=bookstack&logoColor=white"/>
 </div>
