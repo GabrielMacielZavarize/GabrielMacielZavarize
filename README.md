@@ -1,15 +1,5 @@
 # Olá, eu sou o Gabriel Maciel! 👋
 
-<br>
-
-<div align="center">
-  <a href="https://github.com/GabrielMacielZavarize">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMacielZavarize&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMacielZavarize&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<br>
-
 ## 🚀 Sobre mim
 
 Estudante de **Engenharia de Software** apaixonado por transformar ideias em soluções funcionais. Meu objetivo é resolver problemas reais através da tecnologia, sempre buscando aprender e aplicar as melhores práticas de desenvolvimento.
@@ -37,11 +27,58 @@ Quando não estou programando, você pode me encontrar:
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,nuxtjs,reactnative,html,css,tailwind" />
-  <img src="https://skillicons.dev/icons?i=laravel,php,python,js,ts,nodejs,firebase,postgres,mysql" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,phpstorm,figma,docker" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <b>Frontend</b>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+      <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js">
+      <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js">
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <b>Backend</b>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <b>Dados & Cloud</b>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    </td>
+  </tr>
+    <tr>
+    <td align="center" width="120">
+      <b>Ferramentas</b>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
+      <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PhpStorm">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    </td>
+  </tr>
+</table>
 
 ---
 
