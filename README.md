@@ -1,4 +1,4 @@
-# Olá, eu sou o Gabriel Maciel! 👋
+# Olá, eu sou o Gabriel!
 <br>
 
 ### 🚀 Sobre mim
