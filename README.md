@@ -1,10 +1,10 @@
 # Olá, eu sou o Gabriel Maciel! 👋
-
+<br>
 ## 🚀 Sobre mim
 
 Estudante de **Engenharia de Software** apaixonado por transformar ideias em soluções funcionais. Meu objetivo é resolver problemas reais através da tecnologia, sempre buscando aprender e aplicar as melhores práticas de desenvolvimento.
 
-- 🎓 Cursando **Engenharia de Software** (2º ano)
+- 🎓 Cursando **Engenharia de Software** (4/8)
 - 💡 Foco em **desenvolvimento e inovação**
 - 🏆 Participante ativo em **hackathons e Startup Weekends**
 - 📚 Eterno aprendiz de **novas tecnologias**
@@ -13,10 +13,10 @@ Estudante de **Engenharia de Software** apaixonado por transformar ideias em sol
 
 ### Hobbies e Interesses
 Quando não estou programando, você pode me encontrar:
-- 🥅 Jogando como goleiro de Futsal
-- 🃏 Me divertindo com jogos de tabuleiro e baralho
-- 🏐 Jogando vôlei com os amigos
-- 🍿 Maratonando filmes e séries
+- Jogando como goleiro de Futsal
+- Me divertindo com jogos de tabuleiro e baralho
+- Jogando vôlei com os amigos
+- Maratonando filmes e séries
 
 <div align="center">
   <br>
