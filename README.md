@@ -10,8 +10,6 @@ Estudante de **Engenharia de Software** apaixonado por transformar ideias em sol
 - 🏆 Participante ativo em **hackathons e Startup Weekends**
 - 📚 Eterno aprendiz de **novas tecnologias**
 
-<br>
-
 ### Hobbies e Interesses
 Quando não estou programando, você pode me encontrar:
 - Jogando como goleiro de Futsal
