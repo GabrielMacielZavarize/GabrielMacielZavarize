@@ -1,7 +1,7 @@
 # Olá, eu sou o Gabriel Maciel! 👋
 <br>
 
-🚀 Sobre mim
+### 🚀 Sobre mim
 
 Estudante de **Engenharia de Software** apaixonado por transformar ideias em soluções funcionais. Meu objetivo é resolver problemas reais através da tecnologia, sempre buscando aprender e aplicar as melhores práticas de desenvolvimento.
 
