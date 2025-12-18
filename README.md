@@ -3,9 +3,9 @@
 
 ### 🚀 Sobre mim
 
-Estudante de **Engenharia de Software** apaixonado por transformar ideias em soluções funcionais. Meu objetivo é resolver problemas reais através da tecnologia, sempre buscando aprender e aplicar as melhores práticas de desenvolvimento.
+Estudante de **Engenharia de Software** transformando ideias em soluções funcionais. Meu objetivo é resolver problemas reais através da tecnologia, sempre buscando aprender e aplicar as melhores práticas de desenvolvimento.
 
-- 🎓 Cursando **Engenharia de Software** (4/8)
+- 🎓 Cursando **Engenharia de Software** (5/8)
 - 💡 Foco em **desenvolvimento e inovação**
 - 🏆 Participante ativo em **hackathons e Startup Weekends**
 - 📚 Eterno aprendiz de **novas tecnologias**
