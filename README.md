@@ -1,26 +1,19 @@
-# Olá, eu sou o Gabriel!
-<br>
+# Gabriel Maciel Zavarize
 
-### 🚀 Sobre mim
+Desenvolvedor Full Stack morando em Criciúma/SC. Estou no 5º período de Engenharia de Software e trabalho na Engeplus, onde construo aplicações web do zero — desde a modelagem do banco até a interface que o usuário vai usar.
 
-Estudante de **Engenharia de Software** transformando ideias em soluções funcionais. Meu objetivo é resolver problemas reais através da tecnologia, sempre buscando aprender e aplicar as melhores práticas de desenvolvimento.
+Gosto de código que resolve o problema certo, não só o que funciona. Tenho trabalhado bastante com Laravel, React e Nuxt, e nos últimos tempos venho integrando IA nos projetos quando faz sentido.
 
-- 🎓 Cursando **Engenharia de Software** (5/8)
-- 💡 Foco em **desenvolvimento e inovação**
-- 🏆 Participante ativo em **hackathons e Startup Weekends**
-- 📚 Eterno aprendiz de **novas tecnologias**
+---
 
-### Hobbies e Interesses
-Quando não estou programando, você pode me encontrar:
-- Jogando como goleiro de Futsal
-- Me divertindo com jogos de tabuleiro e baralho
-- Jogando vôlei com os amigos
-- Maratonando filmes e séries
+## Sobre
 
-<div align="center">
-  <br>
-  <em>"Quando for aprender uma linguagem, aprenda ela por completo, cada detalhe. Não seja um pato, que faz tudo, e nada sai bem feito."</em>
-</div>
+- 🎓 Engenharia de Software — 5º semestre
+- 💼 Full Stack Developer na **Engeplus**
+- 🌐 Site pessoal: [codeflowsolutions.com.br](https://codeflowsolutions.com.br)
+- 📍 Criciúma, SC
+
+Fora do trabalho, sou goleiro de futsal, jogo vôlei com os amigos e vez ou outra apareço numa mesa de jogos de tabuleiro. Maratono séries quando sobra tempo.
 
 ---
 
@@ -64,7 +57,7 @@ Quando não estou programando, você pode me encontrar:
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
     </td>
   </tr>
-    <tr>
+  <tr>
     <td align="center" width="120">
       <b>Ferramentas</b>
     </td>
@@ -100,8 +93,6 @@ Quando não estou programando, você pode me encontrar:
 
 ## 💬 Conecte-se comigo
 
-Vamos conversar sobre futuro, tecnologia e inovação. Estou aberto a novas oportunidades e colaborações!
-
 <div align="center">
   <a href="https://instagram.com/gabrielmzavarize">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -122,10 +113,5 @@ Vamos conversar sobre futuro, tecnologia e inovação. Estou aberto a novas opor
 <div align="center">
 
 ![Visualizações do perfil](https://komarev.com/ghpvc/?username=GabrielMacielZavarize&color=00D9FF&style=for-the-badge&label=VISITANTES)
-
-<br>
-<em>"Dê-me uma alavanca e um ponto de apoio, e moverei o mundo." — Arquimedes</em>
-<br><br>
-Obrigado pela visita!
 
 </div>
