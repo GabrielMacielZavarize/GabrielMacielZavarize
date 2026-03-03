@@ -74,23 +74,6 @@ Fora do trabalho, sou goleiro de futsal, jogo vôlei com os amigos e vez ou outr
 
 ---
 
-## 🎯 Projetos em Destaque
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielMacielZavarize&repo=codeflow&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/GabrielMacielZavarize/codeflow)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielMacielZavarize&repo=n8n&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/GabrielMacielZavarize/n8n)
-
-</div>
-
-<div align="center" style="margin-top: 16px;">
-  <a href="https://github.com/GabrielMacielZavarize?tab=repositories">
-    <img src="https://img.shields.io/badge/Ver%20todos%20os%20projetos-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
-
----
-
 ## 💬 Conecte-se comigo
 
 <div align="center">
