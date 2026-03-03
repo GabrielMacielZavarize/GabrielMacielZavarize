@@ -1,6 +1,6 @@
 # Gabriel Maciel Zavarize
 
-Desenvolvedor Full Stack morando em Criciúma/SC. Estou no 5º período de Engenharia de Software e trabalho na Engeplus, onde construo aplicações web do zero — desde a modelagem do banco até a interface que o usuário vai usar.
+Desenvolvedor Full Stack morando em Criciúma/SC. Estou no 5º período de Engenharia de Software e trabalho na Engeplus, onde construo aplicações web do zero desde a modelagem do banco até a interface que o usuário vai usar.
 
 Gosto de código que resolve o problema certo, não só o que funciona. Tenho trabalhado bastante com Laravel, React e Nuxt, e nos últimos tempos venho integrando IA nos projetos quando faz sentido.
 
@@ -10,7 +10,6 @@ Gosto de código que resolve o problema certo, não só o que funciona. Tenho tr
 
 - 🎓 Engenharia de Software — 5º semestre
 - 💼 Full Stack Developer na **Engeplus**
-- 🌐 Site pessoal: [codeflowsolutions.com.br](https://codeflowsolutions.com.br)
 - 📍 Criciúma, SC
 
 Fora do trabalho, sou goleiro de futsal, jogo vôlei com os amigos e vez ou outra apareço numa mesa de jogos de tabuleiro. Maratono séries quando sobra tempo.
