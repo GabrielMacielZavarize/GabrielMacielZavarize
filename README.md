@@ -8,7 +8,7 @@ Gosto de código que resolve o problema certo, não só o que funciona. Tenho tr
 
 ## Sobre
 
-- 🎓 Engenharia de Software — 5º semestre
+- 🎓 Engenharia de Software - 5º semestre
 - 💼 Full Stack Developer na **Engeplus**
 - 📍 Criciúma, SC
 
