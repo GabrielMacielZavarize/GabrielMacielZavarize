@@ -1,16 +1,17 @@
 # Gabriel Maciel Zavarize
 
-Desenvolvedor Full Stack morando em Criciúma/SC. Estou no 5º período de Engenharia de Software e trabalho na Engeplus, onde construo aplicações web do zero desde a modelagem do banco até a interface que o usuário vai usar.
+Desenvolvedor Full Stack morando em Criciúma/SC. Estou no 5º período de Engenharia de Software e trabalho na Engeplus, onde construo aplicações web do zero, desde a modelagem do banco até a interface que o usuário vai utilizar.
 
-Gosto de código que resolve o problema certo, não só o que funciona. Tenho trabalhado bastante com Laravel, React e Nuxt, e nos últimos tempos venho integrando IA nos projetos quando faz sentido.
+Gosto de código que resolve o problema certo, não apenas o que funciona. Tenho trabalhado bastante com Laravel, React e Nuxt, além de explorar agentes de IA, automação de workflows e desenvolvimento assistido por IA para acelerar entregas e melhorar a qualidade dos projetos.
 
 ---
 
 ## Sobre
 
-- 🎓 Engenharia de Software - 5º semestre
-- 💼 Full Stack Developer na **Engeplus**
-- 📍 Criciúma, SC
+* 🎓 Engenharia de Software - 5º semestre
+* 💼 Full Stack Developer na **Engeplus**
+* 📍 Criciúma, SC
+* 🤖 Explorando AI Coding, agentes autônomos e integração de LLMs em aplicações web
 
 Fora do trabalho, sou goleiro de futsal, jogo vôlei com os amigos e vez ou outra apareço numa mesa de jogos de tabuleiro. Maratono séries quando sobra tempo.
 
@@ -33,6 +34,7 @@ Fora do trabalho, sou goleiro de futsal, jogo vôlei com os amigos e vez ou outr
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
     </td>
   </tr>
+
   <tr>
     <td align="center" width="120">
       <b>Backend</b>
@@ -46,6 +48,7 @@ Fora do trabalho, sou goleiro de futsal, jogo vôlei com os amigos e vez ou outr
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
     </td>
   </tr>
+
   <tr>
     <td align="center" width="120">
       <b>Dados & Cloud</b>
@@ -56,6 +59,7 @@ Fora do trabalho, sou goleiro de futsal, jogo vôlei com os amigos e vez ou outr
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
     </td>
   </tr>
+
   <tr>
     <td align="center" width="120">
       <b>Ferramentas</b>
@@ -69,6 +73,18 @@ Fora do trabalho, sou goleiro de futsal, jogo vôlei com os amigos e vez ou outr
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
     </td>
   </tr>
+
+  <tr>
+    <td align="center" width="120">
+      <b>🤖 IA & AI Coding</b>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenAI-Codex-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">
+      <img src="https://img.shields.io/badge/GitHub-Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot">
+      <img src="https://img.shields.io/badge/Claude-Code-D97757?style=for-the-badge" alt="Claude Code">
+      <img src="https://img.shields.io/badge/Claude-Design-D97757?style=for-the-badge" alt="Claude Design">
+    </td>
+  </tr>
 </table>
 
 ---
@@ -79,12 +95,15 @@ Fora do trabalho, sou goleiro de futsal, jogo vôlei com os amigos e vez ou outr
   <a href="https://instagram.com/gabrielmzavarize">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+
   <a href="https://www.linkedin.com/in/gabriel-maciel-189b40264/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
   <a href="mailto:gabrielmzavarize@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+
   <a href="https://wa.me/5548996553489">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
@@ -94,6 +113,6 @@ Fora do trabalho, sou goleiro de futsal, jogo vôlei com os amigos e vez ou outr
 
 <div align="center">
 
-![Visualizações do perfil](https://komarev.com/ghpvc/?username=GabrielMacielZavarize&color=00D9FF&style=for-the-badge&label=VISITANTES)
+![Visualizações do perfil](https://komarev.com/ghpvc/?username=GabrielMacielZavarize\&color=00D9FF\&style=for-the-badge\&label=VISITANTES)
 
 </div>
