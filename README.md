@@ -8,7 +8,7 @@ Gosto de código que resolve o problema certo, não apenas o que funciona. Tenho
 
 ## Sobre
 
-* 🎓 Engenharia de Software - 5º semestre
+* 🎓 Engenharia de Software - 6º semestre
 * 💼 Full Stack Developer na **Engeplus**
 * 📍 Criciúma, SC
 * 🤖 Explorando AI Coding, agentes autônomos e integração de LLMs em aplicações web
